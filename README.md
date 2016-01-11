@@ -38,4 +38,4 @@ float computeCircleArea(float functionRadius){
 	return PI * functionRadius * functionRadius;
 }
 ```
-1[screenshot](https://github.com/mikegamboa/Practice/blob/master/Capture.PNG)
+![screenshot](https://github.com/mikegamboa/Practice/blob/master/Capture.PNG)
